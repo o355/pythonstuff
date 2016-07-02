@@ -1,2 +1,2 @@
 # My random Python stuff
-All the random python stuff I've created
+All the Python stuff I managed to create in about a week
